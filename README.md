@@ -8,4 +8,4 @@ Pueden hacer lo que quieran...
 
 ## Actualizacion mediante Github
 Este cambio al readme se realizó mediante GitHub
-## Update
+## Update desde github
